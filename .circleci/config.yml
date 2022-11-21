@@ -15,8 +15,8 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "OQPQ-3!"
-          command: "OQPQ-3!"
+          name: "OQPQ-3"
+          command: "echo OQPQ-3"
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
